@@ -221,8 +221,8 @@
 
   <section id="contact">
     <h2>Connect With Us</h2>
-    <p>Email: astralluxastro@gmail.com</p>
-    <p>Instagram: <a href="https://instagram.com/astrallux.vaani" target="_blank" style="color:#ffcc80;">@astrallux.vaani</a></p>
+    <p>Email: astrallux05@gmail.com</p>
+    <p>Instagram: <a href="https://instagram.com/astrallux.astrotarget="_blank" style="color:#ffcc80;">@astralluxastro</a></p>
   </section>
 
   <footer>
